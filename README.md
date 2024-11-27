@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfp&layout=compact)](https://github.com/thaisfp/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias utilizadas
 
 <div style="display: inline_block">
   <h2><img align="center" alt="java" height="20" width="20" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-backend-no-code-flaticons-flat-flat-icons-2.png" alt="external-backend-no-code-flaticons-flat-flat-icons-2"/>
