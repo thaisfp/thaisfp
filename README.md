@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thais Ferreira Passos 🖐️
+## Olá! Eu sou a Thais 🖐️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thispassos55@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreirap.thais)
